@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="menu.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="25.420068"
+     inkscape:cy="48.253788"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <path
+       style="fill:#501616;fill-opacity:1;stroke-width:0.13229167"
+       d="M 13.229167,273.18748 A 10.583333,10.583333 0 0 0 2.6458334,283.77082 10.583333,10.583333 0 0 0 13.229167,294.35415 10.583333,10.583333 0 0 0 23.8125,283.77082 10.583333,10.583333 0 0 0 13.229167,273.18748 Z m 0,1.03922 a 9.5438985,9.5438985 0 0 1 9.543603,9.54412 9.5438985,9.5438985 0 0 1 -9.543603,9.5436 9.5438985,9.5438985 0 0 1 -9.5441207,-9.5436 9.5438985,9.5438985 0 0 1 9.5441207,-9.54412 z"
+       id="path10"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;stroke:#3f1400;stroke-width:5.13874006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1.0143534,286.91615 c 8.3957105,2.39038 16.5539536,3.1321 24.1542266,0"
+       id="path28"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.11487293px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.17787182"
+       x="8.2535582"
+       y="208.57877"
+       id="text845"
+       transform="scale(0.73274282,1.3647353)"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="8.2535582"
+         y="208.57877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;stroke-width:0.17787182">FOOD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.42994165px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08574854"
+       id="text849"
+       transform="matrix(1.0136906,-0.0564651,0,1.0207127,1.3806758,-4.494509)"><textPath
+         xlink:href="#path28"
+         id="textPath972"><tspan
+   style="fill:#ffffff;stroke-width:0.08574854"
+   id="tspan847">Dine with us</tspan></textPath></text>
+  </g>
+</svg>

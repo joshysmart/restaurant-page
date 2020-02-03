@@ -1,0 +1,182 @@
+body {
+ background-image: url('./img/bg.jpeg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ color: #efefef;
+}
+.navbar {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ background: #00000080;
+}
+.navbar .img {
+ margin-left: 15px;
+}
+.navbar img {
+ width: 80px;
+ height: 80px;
+}
+.navbar ul {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ list-style-type: none;
+ padding: 10px;
+}
+
+.navbar ul a {
+ display: block;
+ padding: 10px;
+ color: #efefef;
+ text-decoration: none;
+}
+
+.navbar ul li a.active {
+ color: #000;
+ background-color: #efefef;
+}
+
+.body {
+ width: 60%;
+ margin: 20px auto;
+ background: rgba(0, 0, 0, 0.9);
+}
+
+#home {
+ width: 70%;
+ margin: 25% auto;
+ font-size: 1.5em;
+ font-weight: bold;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
+}
+
+#home h2, #home p {
+ padding: 0;
+ margin: 0;
+}
+
+#home p {
+ font-size: 1em;
+ font-weight: bold;
+ font-family: 'Courier New', Courier, monospace;
+}
+#about {
+ width: 70%;
+ margin: 0 auto;
+ padding: 10px;
+}
+#about h3{
+ font-size: 1.5em;
+ font-weight: bold;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#about p {
+ font-size: 1em;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contact {
+ width: 70%;
+ padding: 10px;
+ margin: 10% auto;
+ display: flex;
+ justify-content: space-between;
+ font-size: 0.8em;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contact-form, .connect {
+ margin: 0 15px;
+}
+.contact-us h3, .contact-us p {
+ margin: 0 10px;
+}
+
+.contact-us {
+ margin: 10px 0;
+}
+
+
+.contact-form input {
+ width: 200px;
+ padding: 10px;
+ margin: 2px 10px;
+ border: 0;
+}
+
+.contact-form textarea { 
+ width: 200px;
+ height: 100px;
+ padding: 10px;
+ margin: 2px 10px;
+ resize: none;
+ border: 0;
+}
+
+.phone h3, .phone p {
+ margin: 0;
+}
+
+.phone, .address {
+ margin-top: 10px;
+}
+
+.address h3, .address p {
+ margin: 0;
+}
+
+#menu {
+ width: 70%;
+ margin: 5% auto;
+ padding: 10px;
+}
+#menu h3{
+ font-size: 1.5em;
+ font-weight: bold;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#menu p {
+ font-size: 0.8em;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#menu ul {
+ margin: 10px 0;
+ padding: 0;
+}
+#menu ul li {
+ list-style-type: none;
+ padding: 5px;
+ font-size: 1em;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: #000;
+ background-color: #efefef;
+ margin: 1px 0;
+}
+
+.our-menu h3, .our-menu p {
+ margin: 0;
+}
+
+
+
+footer {
+ width: 100%;
+ position: fixed;
+ bottom: 0;
+ padding: 10px;
+ text-align: center;
+ background: #00000080;
+ font-size: 1em;
+ font-weight: bold;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+@media screen and (max-width: 768px)  {
+ #content {
+  display: none;
+ }
+}
